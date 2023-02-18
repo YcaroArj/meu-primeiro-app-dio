@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">MyFirstAppDIO</string>
     <string name="hello" translatable="false">Hi, This is a challenge from DIO. The objective of the Challenge is to work on the internationalization of the application in multiple languages.
     </string>
 </resources>
